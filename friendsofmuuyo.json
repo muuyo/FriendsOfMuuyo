@@ -1,0 +1,14 @@
+{
+	"id": "friendsofmuuyo",
+	"name": "Friends of Muuyo",
+	"display_name": "Friends of Muuyo",
+	"author": ["muuyo"],
+	"description": "A bunch of random miscellaneous collaboration jokers I brainstormed up, with a focus on weird but intuitive effects",
+	"prefix": "myo",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "b90055",
+	"badge_text_colour": "FFF6E8",
+	"version": "0.69",
+	"dependencies": []
+}
